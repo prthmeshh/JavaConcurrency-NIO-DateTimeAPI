@@ -1,0 +1,3 @@
+This is content of File 1...
+Contrary to popular belief
+ Lorem Ipsum is not simply random text
